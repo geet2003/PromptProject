@@ -1,0 +1,6 @@
+instabot
+transformers
+textblob
+pillow
+torch
+torchvision
